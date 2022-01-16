@@ -1,0 +1,218 @@
+Font-end part (web design)= html, css, bootstrap, js, jq, wordpress customization
+= bootstrap (fremework)
+
+Back-end part (web Dev)= php, MySQL, wordpress theme development
+
+
+
+HTML
+
+html = hypertext markup language
+hypertext = linkbonding / linking one page to other page) ( one content to other content) (connectivity)
+= machine readable language
+markup = content specific mark, html element diya specific content ke mark kora
+content gulo ke mark kora.
+
+image - img
+text - p
+
+
+document- online rakhar jonno
+
+content = image, audio, video, text, title
+
+
+
+HTML version
+answer= delete
+modify
+add
+
+html5
+
+version control
+complete project, then check project
+delete
+
+modify
+
+add
+
+
+project folder
+editor
+
+HTML template
+content
+tag,
+element,
+attribute = tag, element
+
+
+
+================================
+
+Need to make a web site-
+
+1- HTML = Stracture
+2. CSS = Style
+3.JS / JQ = behave
+
+======================
+
+Project folder
+folder - name - project name - small - html_myp1
+
+
+file formation
+
+html = index.html
+css = style.css
+js = script.js
+images = images
+fonts = file
+
+============================================
+Home = index.html
+contact =
+gallery =
+blog =
+about us =
+
+
+============
+class-2
+============
+
+element
+h1 - h6, p
+starting tag
+ending tag
+content
+=========================
+Image
+
+a) free = download, cdn=content delivery network
+
+1. pexels,
+2. pixabay,
+3.upsplash
+
+b) premium
+
+attribute = addition data
+tag, element
+
+src=" "
+alt=" "
+
+
+image name
+image alt
+imale title + tag =jpg/jpeg
+
+SCO =
+speed opt =
+
+file-path
+
+images/filename
+
+====================
+w3c
+
+website ma
+========================
+
+encore tag = link kore
+2 types = internal,
+= external = facebook, youtube, or others site = target="_blank_"
+
+encore tag = < a href= " " <a/>
+
+https:// = hyper text transfer protocal security
+
+
+
+====================
+
+CSS
+
+cascading style sheets
+
+3 types=
+
+inline   = powerfull
+internal =
+external = starderd
+
+measurement unit = px, pt, em, rem, %, 
+
+most use( px, %, em )
+
+1em= 16px
+
+color
+   
+   red, green, blue
+
+   black 
+
+   hex # = most use
+
+    #000000
+
+   rgb
+
+   rgb(00,00,00)
+
+   rgba = rgb + opacity(.1 - .9 value)
+
+   rgba(00,00,00,.)
+
+  
+
+margin padding
+
+
+====================
+
+syntax
+
+selector{
+properties:values;
+
+}
+
+
+selector
+   tag/ element= img/h1/h2
+   class       = powerfull (most usefull class) stardand
+   id          = most powerfull 
+
+     selector (only)
+
+selector
+     attribute
+
+
+  ====================
+
+
+  <link rel="stylesheet" href="css/style.css">
+
+  relation= rel
+
+  hyperlink referance = href
+
+
+
+  ============================
+
+  html and css code commeding
+
+  html code commeding = <!--  -->
+
+  css code commeding = /*  */
+
+
